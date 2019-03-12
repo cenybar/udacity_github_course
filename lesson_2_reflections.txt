@@ -22,3 +22,9 @@ How would branches help?
 Branches might be useful when, for example, trying different versions of
 the code (other language, easier version, experimental version, etc)
 Branches would help to keep track of the different versions organized.
+
+# How do the diagrams help you visualize the branch structure?
+
+Diagrams are like a map, to track back the branch components.
+
+
